@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Loaderio")]
-[assembly: AssemblyDescription("Loaderio is a .NET library for use with the [LoaderIo](http://loaderio.com/) simple and powerful cloud-based load testing tool.  Using loader.io, you can quickly, easily, and freely simulate large numbers of connections to your web apps and ensure performance.")]
+[assembly: AssemblyTitle("loader.io")]
+[assembly: AssemblyDescription("loader.io is a .NET library for use with the [loader.io](http://loader.io/) simple and powerful cloud-based load testing tool.  Using loader.io, you can quickly, easily, and freely simulate large numbers of connections to your web apps and ensure performance.")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("SendGridLabs Inc.")]
-[assembly: AssemblyProduct("Loaderio")]
+[assembly: AssemblyProduct("loader.io")]
 [assembly: AssemblyCopyright("Copyright ©  2013")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
