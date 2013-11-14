@@ -7,7 +7,7 @@ First, you'll need to retrieve the library and save it to your local hard drive.
 
 If you'd prefer to build the library yourself, you can fork or clone it and build it within Visual Studio 2013. Drop the file *Loaderio.dll* into your application's bin directory and you're just about ready to start load testing.
 
-Use [docs.loader.io](http://docs.loader.io) to get more description of the whole API. Especially, options for <code>CreateTest</code> are described in (appropriate documentation section)[http://docs.loader.io/api/v2/post/tests.html#test-options].
+Use [docs.loader.io](http://docs.loader.io) to get more description of the whole API. Especially, options for <code>CreateTest</code> are described in [appropriate documentation section](http://docs.loader.io/api/v2/post/tests.html#test-options).
 
 This example shows usage of all API-calls.
 
